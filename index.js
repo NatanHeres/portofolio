@@ -5,7 +5,7 @@ const path = require('path');
 
 // Token dan Zone ID dari Cloudflare
 const CF_API_TOKEN = 'r7HmNu5K7Ul0UrbR2RkNadk027P6EQziKgwtR4BW';
-const CF_ZONE_ID = '57ca0e62ca0d45e934a65517f9814264';
+const CF_ZONE_ID = '4e5c476e417f69978e2baaac59bb3352';
 const REQUEST_THRESHOLD = 100; // Batas request per menit
 const CHECK_INTERVAL = 60000; // Interval pengecekan dalam milidetik (60 detik)
 
